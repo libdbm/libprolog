@@ -1,0 +1,21 @@
+# Development and internal documentation
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+REFACTORING_OPPORTUNITIES.md
+
+# Compiled binaries
+prolog
+
+# Test input files
+repl_test_input.txt
+repl_test_input2.txt
+repl_test_input3.txt
+repl_test_input4.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Local development
+.claude/
