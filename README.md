@@ -383,7 +383,7 @@ BSD 3-Clause License - see LICENSE file for details.
 
 - [ISO/IEC 13211-1:1995](https://www.iso.org/standard/21413.html) - Prolog Core Standard
 - [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog) - Sterling & Shapiro
-- [Warren's Abstract Machine](http://wambook.sourceforge.net/) - WAM Tutorial
+- [Warren's Abstract Machine](https://wambook.sourceforge.net/) - WAM Tutorial
 
 ---
 
