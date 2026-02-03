@@ -1,6 +1,6 @@
 name: libprolog
 description: A modern, ISO-compliant Prolog engine for Dart. Supports ISO Prolog core predicates, DCG, and provides a clean API for embedding in Dart applications.
-version: 0.1.0
+version: 0.1.2
 license: BSD-3-Clause
 repository: https://github.com/libdbm/libprolog
 homepage: https://github.com/libdbm/libprolog

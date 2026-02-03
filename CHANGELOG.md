@@ -1,3 +1,9 @@
+## 0.1.2
+- Update the CHANGELOG
+
+## 0.1.1
+- Update the README.md
+
 ## 0.1.0
 
 - Initial release of libprolog
